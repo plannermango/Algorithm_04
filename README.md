@@ -9,6 +9,7 @@
 4. Images and corresponding probability that predicted Right
 
 ![mnist_model1_success](https://user-images.githubusercontent.com/98636699/173601195-47df6a4e-52f1-4a27-abce-5af3a31c4a8c.png)
+
 5. Images and corresponding probability that predicted Wrong
 
 ![mnist_model1_error](https://user-images.githubusercontent.com/98636699/173601213-93f834e8-f55b-4ae5-8366-9798beb8ccea.png)
@@ -23,6 +24,7 @@
 4. Images and corresponding probability that predicted Right
 
 ![mnist_model2_correct](https://user-images.githubusercontent.com/98636699/173599948-6282174f-4e42-4120-adc6-c5f024c4a8c0.png)
+
 5. Images and corresponding probability that predicted Wrong
 
 ![mnist_model2_error](https://user-images.githubusercontent.com/98636699/173600282-e73f45e9-0b0c-4af6-b1f3-4029c9435b2e.png)
@@ -37,6 +39,7 @@
 4. Images and corresponding probability that predicted Right
 
 ![mnist_model3_correct](https://user-images.githubusercontent.com/98636699/173598530-9f5993a3-5ba5-4a64-b6c7-968388cea464.png)
+
 5. Images and corresponding probability that predicted Wrong
 
 ![mnist_model3_error](https://user-images.githubusercontent.com/98636699/173598536-976fa363-cb0f-4ac6-a770-c48e004fc06a.png)
