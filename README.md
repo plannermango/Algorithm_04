@@ -7,7 +7,7 @@
 3. test accuracy
 <img width="254" alt="mnist_model1_accuracy" src="https://user-images.githubusercontent.com/98636699/173601207-922182fb-3bca-4d28-a869-a8f1cbc16e6c.PNG">
 4. Images and corresponding probability that predicted Right
-![mnist_model1_success](https://user-images.githubusercontent.com/98636699/173601195-47df6a4e-52f1-4a27-abce-5af3a31c4a8c.png)
+<![mnist_model1_success](https://user-images.githubusercontent.com/98636699/173601195-47df6a4e-52f1-4a27-abce-5af3a31c4a8c.png)>
 5. Images and corresponding probability that predicted Wrong
 ![mnist_model1_error](https://user-images.githubusercontent.com/98636699/173601213-93f834e8-f55b-4ae5-8366-9798beb8ccea.png)
 ## model 2
